@@ -1,4 +1,4 @@
-name: Tidal (windows)
+name: Tidal
 
 env:
   NODE_VERSION: "22"
